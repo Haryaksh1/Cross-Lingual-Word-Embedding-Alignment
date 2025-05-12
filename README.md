@@ -19,3 +19,6 @@ Supervised alignment achieves high translation accuracy, with detailed metrics p
 
 Optional Task
 Unsupervised alignment for results ensure availability of appropriate computational resources (recommended: GPU with 19GB RAM).
+
+## License
+This project is proprietary material developed for Sarvam AI fellowship selection. All rights reserved.

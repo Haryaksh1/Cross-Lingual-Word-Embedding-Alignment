@@ -72,7 +72,7 @@ Cross-lingual word embeddings are essential for multilingual NLP tasks such as t
 
 For questions or clarifications, please contact:  
 **Haryaksh Manuh Bhardwaj**  
-Email: f20220900g@pilani.bits-pilani.ac.in
+Email: f20220900@goa.bits-pilani.ac.in
 
 
 
